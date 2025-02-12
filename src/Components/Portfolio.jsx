@@ -31,28 +31,27 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
-    description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    title:"Amazon Clone",
+    description:"Using html and CSS,Its my first project",
+    url: "file:///C:/Users/Appex/Desktop/HTML/project/project%20amazon%20clone/amazon.htm"
   },
   {
-    title: "Web Development for Beginners",
+    title: "TIIC-TAC-TOE GAME",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "using html,css and javascript",
+    url: "http://127.0.0.1:5500/javascript/project2.html",
   },
   {
-    title: "My Resume Site",
+    title: "ROCK-PAPER-SCISSOR GME",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "using html,css and javascript.",
+    url: "http://127.0.0.1:5500/javascript/project3.html",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "CURRENCY CONVERTER",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "using html,css and js",
+    url: "http://127.0.0.1:5500/javascript/project4.html",
   },
 ];
 
